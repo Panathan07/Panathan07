@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Panathan07
 - 👀 I’m interested in Computers and Software Engineering.
-- 🌱 I’m currently learning C# WPF.
-- 💞️ I’m looking to collaborate on something.
+- 🌱 I’m currently learning React.js.
 - 📫 How to reach me: .....(you can't)
 
 <!---
